@@ -1,0 +1,95 @@
+body
+  {
+    font-family: 'Times New Roman', serif;
+    background-color: #6F9BFF;
+  }
+  
+  
+  h1
+  {
+    font-family: 'Pacifico', cursive;
+    background-color: #6234fb;
+    text-align: center;
+    font-size: 55px;
+    padding: 5px;
+  }
+  
+  #BV 
+  {
+    width: 220px;
+    height: auto;
+  }
+  
+  #IV 
+  {
+    width: 220px;
+    height: auto;
+  }
+  
+  #FP 
+  {
+    width: 290px;
+    height: auto;
+    
+  }
+  
+  #FU 
+  {
+    width: 190px;
+    height: auto;
+  }
+  
+ 
+  ul 
+  {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3a6bb5;
+  }
+  
+  li
+  {
+    float: left;
+  }
+  
+  li a 
+  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #navegacion 
+  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#3a6bb5;
+  }
+  
+  .nav-link {
+    float: left;
+  }
+  
+  .nav-link a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav-link a:hover {
+    background-color: #111;
+  }
+  
+  .text {
+    text-align: center;
+  }
